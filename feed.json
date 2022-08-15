@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SEO",
+    "description": "",
+    "home_page_url": "https://mpedrao.github.io/seo",
+    "feed_url": "https://mpedrao.github.io/seo/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Maudy"
+    },
+    "items": [
+        {
+            "id": "https://mpedrao.github.io/seo/publii-hospedado-no-github/",
+            "url": "https://mpedrao.github.io/seo/publii-hospedado-no-github/",
+            "title": "Publii hospedado no Github",
+            "summary": "Hello world!! é nóis!",
+            "content_html": "<h2>Hello world!!</h2>\n<p>é nóis!<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://mpedrao.github.io/seo/media/posts/1/seo-reverso.jpg\" sizes=\"100vw\" srcset=\"https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-xs.jpg 300w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-sm.jpg 480w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-md.jpg 768w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-lg.jpg 1024w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-xl.jpg 1360w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-2xl.jpg 1600w\"  alt=\"SEO\" width=\"4078\" height=\"2719\"></figure>\n<p> </p>",
+            "author": {
+                "name": "Maudy"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-15T20:16:55-03:00",
+            "date_modified": "2022-08-15T20:16:55-03:00"
+        }
+    ]
+}

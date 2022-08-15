@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SEO</title>
+    <link href="https://mpedrao.github.io/seo/feed.xml" rel="self" />
+    <link href="https://mpedrao.github.io/seo" />
+    <updated>2022-08-15T20:16:55-03:00</updated>
+    <author>
+        <name>Maudy</name>
+    </author>
+    <id>https://mpedrao.github.io/seo</id>
+
+    <entry>
+        <title>Publii hospedado no Github</title>
+        <author>
+            <name>Maudy</name>
+        </author>
+        <link href="https://mpedrao.github.io/seo/publii-hospedado-no-github/"/>
+        <id>https://mpedrao.github.io/seo/publii-hospedado-no-github/</id>
+
+        <updated>2022-08-15T20:16:55-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello world!! é nóis!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Hello world!!</h2>
+<p>é nóis!<figure class="post__image post__image--wide"><img loading="lazy"  src="https://mpedrao.github.io/seo/media/posts/1/seo-reverso.jpg" sizes="100vw" srcset="https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-xs.jpg 300w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-sm.jpg 480w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-md.jpg 768w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-lg.jpg 1024w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-xl.jpg 1360w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-2xl.jpg 1600w"  alt="SEO" width="4078" height="2719"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
