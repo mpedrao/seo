@@ -3,7 +3,7 @@
     <title>SEO</title>
     <link href="https://mpedrao.github.io/seo/feed.xml" rel="self" />
     <link href="https://mpedrao.github.io/seo" />
-    <updated>2022-08-17T17:34:53-03:00</updated>
+    <updated>2022-08-17T17:37:35-03:00</updated>
     <author>
         <name>Maudy</name>
     </author>
@@ -17,17 +17,21 @@
         <link href="https://mpedrao.github.io/seo/publii-hospedado-no-github/"/>
         <id>https://mpedrao.github.io/seo/publii-hospedado-no-github/</id>
 
-        <updated>2022-08-17T17:34:53-03:00</updated>
+        <updated>2022-08-17T17:37:35-03:00</updated>
             <summary>
                 <![CDATA[
-                    Hello world!! é nóis!
+                    Hello world!! é nóis! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam faucibus eu tortor sed laoreet. Sed placerat consectetur justo, sed imperdiet sem ullamcorper at. Mauris sit amet tristique nibh, non scelerisque est. Sed in justo dui. Integer blandit venenatis metus, sit amet&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Hello world!!</h2>
 <p>é nóis!<figure class="post__image post__image--wide"><img decoding="async" loading="lazy"  src="https://mpedrao.github.io/seo/media/posts/1/seo-reverso.jpg" sizes="100vw" srcset="https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-xs.jpg 300w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-sm.jpg 480w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-md.jpg 768w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-lg.jpg 1024w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-xl.jpg 1360w ,https://mpedrao.github.io/seo/media/posts/1/responsive/seo-reverso-2xl.jpg 1600w"  alt="SEO" width="4078" height="2719"></figure>
-<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam faucibus eu tortor sed laoreet. Sed placerat consectetur justo, sed imperdiet sem ullamcorper at. Mauris sit amet tristique nibh, non scelerisque est. Sed in justo dui. Integer blandit venenatis metus, sit amet ullamcorper magna efficitur eget. In ac justo quis ligula fringilla lacinia. Maecenas et sapien dignissim nulla pellentesque pretium ut eu arcu. Quisque vel elementum nulla, nec ornare nisl. Donec in dictum nisi. Suspendisse lectus diam, eleifend a porta sed, tempor et nisi. Morbi interdum velit id massa porttitor commodo. Nunc id elit tempus, tristique ante vitae, vehicula ex. Maecenas sit amet fermentum libero. Curabitur tincidunt, nisl vitae euismod aliquet, mauris augue tincidunt lectus, non pretium orci risus a dui. Cras ac egestas eros, eget molestie libero. Vivamus at ornare turpis, vitae sagittis orci.</p>
+<p>Aenean id sapien tincidunt urna auctor eleifend. In massa elit, vestibulum et odio id, tincidunt porta orci. Phasellus at suscipit neque, quis luctus justo. Curabitur sem velit, molestie quis faucibus vel, vestibulum vitae est. Curabitur pharetra sollicitudin sapien, ut elementum libero fermentum quis. Donec varius ut magna in maximus. Curabitur pulvinar ex nisi, id ullamcorper libero rutrum eu.</p>
+<p>Sed iaculis tristique eros, ac tristique dui sodales ut. Sed vel facilisis nunc. Integer accumsan velit dolor, et efficitur nunc scelerisque et. Aliquam cursus pulvinar purus id mollis. Curabitur consectetur volutpat hendrerit. Nunc eget efficitur sapien. Maecenas sodales tellus sed scelerisque finibus. Donec hendrerit interdum urna, nec porttitor libero finibus a. Sed sit amet ante at dui accumsan dignissim sollicitudin eu nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla aliquam interdum massa, vel rhoncus leo egestas at.</p>
+<p>Sed eros tortor, commodo quis malesuada quis, venenatis ac felis. Donec ullamcorper nunc lectus, a ultricies erat vestibulum nec. Vestibulum diam magna, condimentum in risus sit amet, bibendum rhoncus justo. Nullam aliquam augue lobortis, convallis quam vel, vulputate quam. Mauris est dui, vestibulum id tristique ut, vehicula ut felis. Donec dignissim dui ut maximus sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque tincidunt lorem ut nunc dictum, eget fermentum quam cursus. Fusce tincidunt, quam sit amet commodo feugiat, lorem tortor feugiat ante, id porttitor purus nisi vel mauris. Maecenas at ligula purus. Duis auctor euismod laoreet. In tempus, risus vel consequat pellentesque, nisi ligula euismod ante, eget egestas enim felis id purus. Vivamus varius gravida vestibulum.</p>
+<p>Quisque convallis laoreet pharetra. Nulla ut ullamcorper metus. Duis tempus faucibus justo, in pharetra leo sodales et. Praesent sit amet nunc quis velit imperdiet lacinia. Phasellus neque ex, dignissim sed porttitor nec, dictum finibus diam. Donec libero sem, pharetra vitae nisl sed, euismod tempor magna. Nullam semper mauris ex, sit amet posuere ex porta eu. Aenean quis felis nisl. Duis vehicula tristique arcu et mattis. Fusce ex eros, pharetra a malesuada in, imperdiet sit amet odio. Vestibulum vel suscipit nunc. Nam metus nisl, dictum quis massa in, aliquet placerat ante. Proin nibh ante, bibendum sagittis volutpat nec, venenatis id sem.</p>
             ]]>
         </content>
     </entry>
