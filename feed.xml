@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>SEO by Maudy Pedrão</title>
+    <title>Maudy Pedrão</title>
     <link href="https://mpedrao.github.io/seo/feed.xml" rel="self" />
     <link href="https://mpedrao.github.io/seo" />
     <updated>2022-08-18T16:08:36-03:00</updated>
@@ -24,46 +24,6 @@
                     Google's official blog announced this afternoon that it has started a new algorithm update for its search engine, with a focus on content quality. In Google's blog post, it says that: Update starts next week and should take two weeks to finish completely. The objective&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h2 id="googles-official-blog-announced-this-afternoon-that-it-has-started-a-new-algorithm-update-for-its-search-engine-with-a-focus-on-content-quality">
-      Google's official blog announced this afternoon that it has started a new algorithm update for its search engine, with a focus on content quality.
-    </h2>
-
-  <p>
-    In <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank">Google's blog post</a>, it says that:
-  </p>
-
-    <figure class="blockquote">
-      <blockquote>"Google Search is always working to better connect people to helpful information. To this end, we're launching what we're calling the “helpful content update” that's part of a broader effort to ensure people see more original, helpful content written by people, for people, in search results."</blockquote>
-      <figcaption>Google</figcaption>
-    </figure>
-
-  <p>
-    Update starts next week and should take two weeks to finish completely.
-<br>
-<br>The objective is to clean from the search results pages that will be considered bad, of low quality or that do not present answers to the users of the search engine of the American giant.
-  </p>
-
-  <p>
-    The update starts first in English and for other languages in the near future.
-<br>
-<br>Google will let us know on its official channels.
-  </p>
-
-    <h2 id="is-your-content-original-and-is-your-site-protected">
-      Is your content original and is your site protected?
-    </h2>
-
-  <p>
-    Bad news for those who use artificial intelligence textual content creation systems and who only think about creating articles thinking about search engines and not about humans.
-<br>
-<br>Poor people who copy recipes, travel blogs and so on.
-<br>
-<br>Are you sure about your original content?
-  </p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
 </feed>
